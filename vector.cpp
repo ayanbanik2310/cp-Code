@@ -133,3 +133,14 @@ int32_t main()
 	return 0;
 }
  
+/*
+input-
+
+size- 5
+vector elements- 8 3 9 1 6
+insert at the end- 12
+insert at the beginning- 10
+insert at the position- 100 7
+delete from position- 3
+
+*/
